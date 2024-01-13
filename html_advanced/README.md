@@ -19,3 +19,6 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 * A README.md file, at the root of the folder of the project is mandatory
 * You are not allowed to install, import or use external libraries. This website must be build with only HTML/CSS/JavaScript. No NodeJS, React, VueJS, Bootstrap, etc.
 * Your code should be W3C compliant and validate with W3C-Validator
+
+# Wireframe example
+![Wireframe photo](https://github.com/TravisAdamson/atlas-web-development/blob/018a255d3812615ed78f8ac03153cde9e185e2a7/html_advanced/readme.png)
