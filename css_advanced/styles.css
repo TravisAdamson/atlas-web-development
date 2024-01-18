@@ -1,6 +1,23 @@
 .headerclass {
     color: #FFFFFF;
-    width: 1103.408px;
-    height: 29.461px;
+    width: 68.963rem;
+    height: 1.84131rem;
+    flex-shrink: 0;
+    top: 6.31rem;
+    left: 10.98rem;
+    background-color: transparent;
+    display: flex;
+    justify-content: space-between;
+}
+
+.navlinks {
+    top: 0.12rem;
+    left: 54.3rem;
+    width: 14.6rem;
+    height: 0.9375rem;
+    display: inline-flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 3.25rem;
     flex-shrink: 0;
 }
