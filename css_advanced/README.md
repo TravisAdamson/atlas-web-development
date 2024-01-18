@@ -23,4 +23,4 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 
 ## Visual Example
 
-![Visual Example](https://github.com/TravisAdamson/atlas-web-development/blob/018a255d3812615ed78f8ac03153cde9e185e2a7/html_advanced/readme.png)
+![Visual Example](https://github.com/TravisAdamson/atlas-web-development/blob/97e8153badecdbb2f3bac805ad3b9aea05aef1ff/css_advanced/readme.png)
