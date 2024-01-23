@@ -48,7 +48,7 @@ a {
     background-size: cover;
     background-repeat: no-repeat;
     background-blend-mode: luminosity;
-    height: 100vh;
+    height: 150vh;
     top: 0rem;
     left: 0rem;
 }
@@ -96,7 +96,7 @@ p {
     max-width: 18.75rem;
     font-size: 1rem;
     justify-content: space-between;
-    margin-left: 10rem;
+    margin-left: 24rem;
 }
 
 button {
@@ -109,7 +109,129 @@ button {
     font-size: 1rem;
     font-weight: 600;
     border: none;
-    margin-left: 15.32rem;
+    margin-left: 28rem;
     margin-top: 2.375rem;
     box-shadow: 0 .5rem 1rem 0 rgba(0,0,0,0.2), 0 .375rem 1.25rem 0 rgba(0,0,0,0.19);
 }
+
+.SecondBlock {
+    text-align: center;
+    justify-content: space-around;
+    padding-bottom: 1rem;
+}
+
+.SecondBlock h2 {
+    font-size: 2rem;
+    color: #FFFFFF;
+}
+
+.SecondBlock h2 span {
+    color: #C271FF;
+}
+
+.SecondBlock div {
+    display: flex;
+    width: 63rem;
+    height: 14.8rem;
+    flex-shrink: 0;
+    justify-content: space-between;
+  }
+
+.SecondBlock div div {
+    width: 9.375rem;
+    height: 14.8rem;
+    flex-shrink: 0;
+    flex-direction: column;
+}
+
+.SecondBlock div div img {
+    width: 9.375rem;
+    height: 9.375rem;
+    flex-shrink: 0;
+    border-radius: 50%;
+}
+
+.SecondBlock div div h3 {
+    color: #FFFFFF;
+    text-align: center;
+    font-family: "Source Sans Pro";
+    font-size: 1.125rem;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 1.6rem;
+    width: 9.375rem;
+}
+
+.SecondBlock div div p {
+    color: #FFFFFF;
+    text-align: center;
+    font-family: "Source Sans Pro";
+    font-size: 1rem;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 1.5rem;
+}
+
+.Quotes {
+    width: 90rem;
+    height: 24.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    background-color: #C271FF;
+}
+
+.Quotes-block {
+    width: 58.9rem;
+    height: 10rem;
+    flex-shrink: 0;
+    display: flex;
+    justify-content: space-around;
+}
+
+.Quotes-block img {
+    width: 10rem;
+    height: 10rem;
+    flex-shrink: 0;
+    border-radius: 50%;
+}
+
+.Quotes-Example {
+    width: 45.625rem;
+    height: 9.875rem;
+    flex-shrink: 0;
+    padding: 0;
+}
+
+.Quotes-Example blockquote {
+    margin: 0;
+    width: 45.625rem;
+    color: #FFFFFF;
+    font-family: "Source Sans Pro";
+    font-size: 1.375rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 2.1rem;
+}
+
+.bold {
+    color: #FFFFFF;
+    font-family: "Source Sans Pro";
+    font-size: 1.375rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 2.1rem;
+    margin-left: 2.5rem;
+}
+
+.italic {
+    color: #FFFFFF;
+    font-family: "Source Sans Pro";
+    font-size: 1.375rem;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 2.1rem;
+    margin-left: 2.5rem;
+}
+
